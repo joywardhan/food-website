@@ -1,1 +1,15 @@
 body{font-family: 'Poppins', sans-serif;margin: 0px;padding: 0px;}
+#top-section{display: flex;}
+h1,h2,h3,h4,h5,h6{color: #444;}
+.first-half{width: 50%;padding: 5%;}
+.first-half img{width: 100%;}
+.first-half h1{text-transform: capitalize;font-size: 47px;}
+.orange-color{color: orange;}
+.first-half p{color: #444;margin-bottom: 30px;}
+.first-half a{text-decoration: none;background-image: linear-gradient(orange,tomato);color: #fff;padding:10px 20px;border-radius: 30px;}
+#about{display: flex;background-image: url(images/shapes/7.png);background-repeat: no-repeat;background-size: cover;}
+.about-half{width: 50%;padding: 5%;}
+.about-half img{width: 100%;}
+.about-half h1{text-transform: capitalize;margin-top: 40px;font-size: 40px;}
+.about-half p{text-transform: capitalize;color: #444;font-size: 17px;line-height: 30px;margin-bottom: 60px;}
+.about-half a{text-decoration: none;background-image: linear-gradient(orange,tomato);padding: 10px 30px;border-radius: 30px;color: #fff;}
