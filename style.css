@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{color: #444;}
 .about-half a{text-decoration: none;background-image: linear-gradient(orange,tomato);padding: 10px 30px;border-radius: 30px;color: #fff;}
 #recipies{text-align: center;margin-bottom: 50px;}
 .recipies-class{display: flex;}
-.recipies-half{width: 28%;margin: 3%;padding: 10px;border-radius: 10px;box-shadow: 1px 1px 30px black;}
+.recipies-half{width: 28%;margin: 3%;padding: 10px;border-radius: 10px;box-shadow: 1px 1px 30px #6c6c6c;}
 #recipies h1{text-transform: capitalize;font-size: 40px;}
 #recipies p{width: 80%;padding: 0% 10%;color: #444;}
 .recipies-half h2{text-transform: capitalize;}
